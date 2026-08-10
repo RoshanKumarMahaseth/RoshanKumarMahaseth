@@ -44,6 +44,7 @@ I enjoy building practical applications with Python, learning how systems work b
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ### 🔧 Tools & Development
@@ -52,6 +53,8 @@ I enjoy building practical applications with Python, learning how systems work b
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=claude&logoColor=white"/>
 </p>
 
 ### ⛓️ Exploring
