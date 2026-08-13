@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Roshan Kumar Mahaseth
 
-### 🐍 Python Backend Developer | 🤖 Aspiring AI Engineer | 💻 Problem Solver | ⛓️ BlockChain
+### 🐍 Python Backend Developer | 🤖 Aspiring AI Engineer | 💻 Problem Solver 
 
 I'm a B.Tech Computer Science student passionate about **backend development, artificial intelligence, and problem solving**.
 
